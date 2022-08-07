@@ -9,7 +9,7 @@
 title                    : "Zhibo Zhang"
 description              : "A graduate student majoring in Electrical and Computer Engineering. Focusing on Explainable AI, Trustworthy AI and cyber security "
 repository               : "qiuyuezhibo/qiuyuezhibo.github.io"
-google_scholar_stats_use_cdn : False
+google_scholar_stats_use_cdn : false
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
@@ -27,7 +27,7 @@ author:
   location         : "Abu Dhabi， UAE"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
+  googlescholar    :  # "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
   email            : "qiuyuezhibo@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -37,13 +37,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "qiuyuezhibo"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : # e.g., "linkedin username"
+  linkedin         : "www.linkedin.com/in/zhibo-zhang-2171b6220"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
