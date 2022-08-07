@@ -161,6 +161,3 @@ I am now doing research under the guidance of [Prof. Ernesto Damiani](https://ww
 > > ***Instructor: Dr. Jamal Alsawalhi***
 
 
-# 🪶Visit Record
-
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=-n9Eut7dB_Iba4p2ddfdKBAfzRvd1G0iPDLEYq85aAY"></script>
