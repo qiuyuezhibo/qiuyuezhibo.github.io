@@ -21,7 +21,7 @@ redirect_from:
 
 Welcome to my personal page! 
 
-My name is Zhibo Zhang (张志博), a graduate student of [Kalifa University](https://www.ku.ac.ae/), [Department of Electrical Engineering and Computer Science](https://www.ku.ac.ae/people-types/department-of-electrical-engineering-and-computer-science/), majoring in Electrical and Computer Engineering. I also work in this department as a research and teaching assistant with a full scholarship. Expecting to graduate in 2023.06 with a master’s degree, I am now trying to find opportunities to continue my career as a Ph.D. student. My research interests include cyber security, deep learning, trustworthy AI, and the intersection between computer security & explainable AI (XAI).
+My name is Zhibo Zhang (张志博), a graduate master student of [Kalifa University](https://www.ku.ac.ae/), [Department of Electrical Engineering and Computer Science](https://www.ku.ac.ae/people-types/department-of-electrical-engineering-and-computer-science/), majoring in Electrical and Computer Engineering. I also work in this department as a research and teaching assistant with a full scholarship. Expecting to graduate in 2023.06 with a master’s degree, I am now trying to find opportunities to continue my career as a Ph.D. student. My research interests include cyber security, deep learning, trustworthy AI, and the intersection between computer security & explainable AI (XAI).
 
 I graduated from [Northwestern Polytechnical University](https://en.nwpu.edu.cn/) with a bachelor's degree in Mechatronic Engineering with honor. During my final year of my bachelor, I studied at the [National University of Singapore Suzhou Institute](http://en.nusri.cn/) as an exchange student. And I finished my Final Year of Project advised by [Dr. Peter C. Y. Chen](https://cde.nus.edu.sg/me/staff/chen-chao-yu-peter/) there.
 
@@ -75,6 +75,13 @@ I am now doing research under the guidance of [Prof. Ernesto Damiani](https://ww
 - **Courses:**  Advanced Linear Systems, Advanced Operating Systems, Data Science, Advanced Computer Network, Deep Learning System Design and Simulation and 8 others.
 
 - **Project:** Suspicious Spam Filtering Using Explainable Artificial Intelligence.
+
+# 🔥 News
+- *2021.08*: I arrive in Abu Dhabi, UAE, and start my master's career there!
+- *2021.07*: 👨‍🎓👨‍🎓 I get my bachelor’s degree with honors!
+- *2021.03*: 🎉🎉 I acquire a qualification of postgraduate recommendation, and decide to pursue my master’s degree in Kalifa University!
+- *2020.08*: 🎉🎉 I am awarded outstanding student by NWPU for three consecutive years!
+- *2020.08*: 🥈🥈 I join the National University of Singapore Suzhou Institute as an exchange student and start my Final Year Project for my Bachelor!
 
 ✨ Technical Skills
 ================
