@@ -83,6 +83,11 @@ I am now doing research under the guidance of [Prof. Ernesto Damiani](https://ww
 - *2020.08*: 🎉🎉 I am awarded outstanding student by NWPU for three consecutive years!
 - *2020.08*: 🥈🥈 I join the National University of Singapore Suzhou Institute as an exchange student and start my Final Year Project for my Bachelor!
 
+# 📝 Submitted Papers
+- *2022.08*: **Explainable Artificial Intelligence Applications in Cyber Security: State-of-the-Art in Research** submitted to **IEEE ACCESS**, under review
+- *2022.07*: **New Late Multi-Modal Fusion Frameworks for Detecting Hybrid Spam E-mail** submitted to **The 17th International Conference on Information Security Practice and Experience (ISPEC 2022)**, under review
+- *2022.06*: **Person Monitoring by Full Body Tracking in Uniform Crowd Environment** submitted to **International Conference on Advances in Data-driven Computing and Intelligent Systems (ADCIS 2022)**, under review
+
 ✨ Technical Skills
 ================
 
