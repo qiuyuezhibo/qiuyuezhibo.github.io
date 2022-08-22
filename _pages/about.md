@@ -77,6 +77,7 @@ I am now doing research under the guidance of [Prof. Ernesto Damiani](https://ww
 - **Project:** Suspicious Spam Filtering Using Explainable Artificial Intelligence.
 
 # 🔥 News
+- *2022.08*: 🎉🎉 One paper is accepted by ADCIS 2022!
 - *2021.08*: I arrive in Abu Dhabi, UAE, and start my master's career there!
 - *2021.07*: 👨‍🎓👨‍🎓 I get my bachelor’s degree with honors!
 - *2021.03*: 🎉🎉 I acquire a qualification of postgraduate recommendation, and decide to pursue my master’s degree in Kalifa University!
@@ -103,8 +104,6 @@ I am now doing research under the guidance of [Prof. Ernesto Damiani](https://ww
   - Japanese (Beginner)
 - **Media Processing:**
   - Adobe PR, Adobe PS
-- **Other Interest**: 
-  - Basketball, Gym, Marathon
 
 
 ⌨ Projects
@@ -172,4 +171,21 @@ I am now doing research under the guidance of [Prof. Ernesto Damiani](https://ww
 > >
 > > ***Instructor: Dr. Jamal Alsawalhi***
 
+----
+<!-- <div class="footer">
+    <div class="row">
+          <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=m&d=91g_Uih-7fadH9madF_Vex1LQXOVlduL5aeBBSKXgXA"></script>
+    </div>
+</div> -->
+<div class="footer">
+    <div class="center">
+        <a><img src="//clustrmaps.com/map_v2.png?cl=ffffff&w=a&t=m&d=91g_Uih-7fadH9madF_Vex1LQXOVlduL5aeBBSKXgXA&co=2d78ad&ct=ffffff" /></a>
+    </div>
+</div>
+
+
+
+
+---
+Zhibo Zhang
 
