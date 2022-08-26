@@ -77,6 +77,7 @@ I am now doing research under the guidance of [Prof. Ernesto Damiani](https://ww
 - **Project:** Suspicious Spam Filtering Using Explainable Artificial Intelligence.
 
 # 🔥 News
+- *2022.08*: 🎉🎉 One paper is accepted by IEEE Access!
 - *2022.08*: 🎉🎉 One paper is accepted by ADCIS 2022!
 - *2021.08*: I arrive in Abu Dhabi, UAE, and start my master's career there!
 - *2021.07*: 👨‍🎓👨‍🎓 I get my bachelor’s degree with honors!
@@ -86,7 +87,7 @@ I am now doing research under the guidance of [Prof. Ernesto Damiani](https://ww
 
 # 📝 Submitted Papers
 - *2022.08*: **Explainable Artificial Intelligence to Detect Image Spam Using Convolutional Neural Network** submitted to **International Conference on Cyber Resilience (ICCR 2022)**, under review
-- *2022.08*: **Explainable Artificial Intelligence Applications in Cyber Security: State-of-the-Art in Research** submitted to **IEEE ACCESS**, under review
+- *2022.08*: **Explainable Artificial Intelligence Applications in Cyber Security: State-of-the-Art in Research** submitted to **IEEE ACCESS**, accepted
 - *2022.07*: **New Late Multi-Modal Fusion Frameworks for Detecting Hybrid Spam E-mail** submitted to **The 17th International Conference on Information Security Practice and Experience (ISPEC 2022)**, under review
 - *2022.06*: **Person Monitoring by Full Body Tracking in Uniform Crowd Environment** submitted to **International Conference on Advances in Data-driven Computing and Intelligent Systems (ADCIS 2022)**, accepted
 
