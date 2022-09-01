@@ -78,7 +78,7 @@ I am now doing research under the guidance of [Prof. Ernesto Damiani](https://ww
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Access 2022</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Access 2022</div><img src='images/XAIcybersecurity.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ## [Explainable Artificial Intelligence Applications in Cyber Security: State-of-the-Art in Research](https://arxiv.org/ftp/arxiv/papers/2208/2208.14937.pdf) 
