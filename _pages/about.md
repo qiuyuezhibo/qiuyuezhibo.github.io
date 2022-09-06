@@ -87,7 +87,7 @@ I am now doing research under the guidance of [Prof. Ernesto Damiani](https://ww
 
 #### IEEE Access 2022
 
-### [PDF📃](https://arxiv.org/ftp/arxiv/papers/2208/2208.14937.pdf)  [Project Page🔗](https://arxiv.org/ftp/arxiv/papers/2208/2208.14937.pdf)
+### [PDF📃](https://arxiv.org/ftp/arxiv/papers/2208/2208.14937.pdf)  [Project Page🔗](https://ieeexplore.ieee.org/document/9875264)
 
 </div>
 </div>
