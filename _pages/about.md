@@ -127,21 +127,6 @@ I am now doing research under the guidance of [Prof. Ernesto Damiani](https://ww
 ⌨ Projects
 ========
 
-###  **Modeling of Human Navigation Behavior Using Reinforcement Learning**        
-
-> ***Python, Reinforcement Learning***       
->
-> **Oct 2020 - May 2021**
-
-***
-
--    Simple modeling of human behavior reacting to **moving obstacles** in an indoor environment.
-
--    The original video was gained from **Suzhou Center Mall** and the annotations were done in [Computer Vision Annotation Tool(CVAT)]( https://cvat.org/).
--   **Q-Learning** algorithm of **Reinforcement Learning** was utilized to model target human’s behavior.
-
-***
-
 ###  **Suspicious Spam and Malware Filtering Using Explainable Artificial Intelligence**        
 
 > ***Python, LIME, SHAP*** 
@@ -160,12 +145,27 @@ I am now doing research under the guidance of [Prof. Ernesto Damiani](https://ww
 
 - Uniform Crowd Environment was established in the Computer Vision Lab of Khalifa University. A large number of videos including people wearing the traditional uniforms of the middle east were shotted and collected. Annotations were done on the platform of [Computer Vision Annotation Tool(CVAT)]( https://cvat.org/). The conventional Deep Learning-based tracker **STARK** was implemented to track people in the uniform crowd. And the **refined tracker** adapted to the crowd environment was also implemented to track people and compared with the conventional tracker.
 
+***
+
+###  **Modeling of Human Navigation Behavior Using Reinforcement Learning**        
+
+> ***Python, Reinforcement Learning***       
+>
+> **Oct 2020 - May 2021**
+
+-    Simple modeling of human behavior reacting to **moving obstacles** in an indoor environment.
+
+-    The original video was gained from **Suzhou Center Mall** and the annotations were done in [Computer Vision Annotation Tool(CVAT)]( https://cvat.org/).
+-   **Q-Learning** algorithm of **Reinforcement Learning** was utilized to model target human’s behavior.
+
+***
+
 🏆 Honors and Awards
 ======
 
-- First Class Outstanding Undergraduate Scholarship of NPU; Dec 2018
-- Outstanding Undergraduate Scholarship of NPU; Dec 2019, Dec 2020
 - Mater of Research and Teaching Scholarship, Khalifa University, Sep 2021
+- Outstanding Undergraduate Scholarship of NPU; Dec 2019, Dec 2020
+- First Class Outstanding Undergraduate Scholarship of NPU; Dec 2018
 
 💻 Experiences
 ==========
