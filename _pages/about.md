@@ -92,6 +92,21 @@ I am now doing research under the guidance of [Prof. Ernesto Damiani](https://ww
 </div>
 </div>
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ADCIS 2022</div><img src='images/ADCISvisualization.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+## [Person Monitoring by Full Body Tracking in Uniform Crowd Environment](https://arxiv.org/ftp/arxiv/papers/2209/2209.01274.pdf) 
+
+**Zhibo Zhang**, Omar Alremeithi, Maryam Almheiri, Marwa Albeshr, Xiaoxiong Zhang, Sajid Javed, Naoufel Werghi
+
+#### [**International Conference on Advances in Data-driven Computing and Intelligent Systems (ADCIS 2022)**](https://www.adcis22.scrs.in/)
+
+### [PDF📃](https://arxiv.org/ftp/arxiv/papers/2208/2208.14937.pdf)  [Project Page🔗](https://github.com/qiuyuezhibo/kandora-and-abaya-uniform-tracking-dataset)
+
+</div>
+</div>
+
 # 🔥 News
 - *2022.08*: 🎉🎉 One paper is accepted by IEEE Access!
 - *2022.08*: 🎉🎉 One paper is accepted by ADCIS 2022!
