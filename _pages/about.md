@@ -200,9 +200,16 @@ I am now doing research under the guidance of [Prof. Ernesto Damiani](https://ww
 >
 > > **Sep 2021 -- Feb 2022**
 >
-> > ***Teaching Assistant of undergraduate course Introduction to Computing Using MATLAB(ENGR133)***
+> > ***Teaching Assistant of undergraduate course， Introduction to Computing Using MATLAB(ENGR133)***
 > >
 > > ***Instructor: Dr. Jamal Alsawalhi***
+>
+> > **Sep 2022 -- Feb 2023**
+>
+> > ***Teaching Assistant of undergraduate course， Foundation of Computer Science(COSC101)***
+> >
+> > ***Instructor: Dr. Rabeb Mizouni***
+
 
 ----
 <!-- <div class="footer">
