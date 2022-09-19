@@ -92,6 +92,19 @@ I am now doing research under the guidance of [Prof. Ernesto Damiani](https://ww
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCR 2022</div><img src='images/ICCRsamplefigure.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+## [Explainable Artificial Intelligence to Detect Image Spam Using Convolutional Neural Network](https://arxiv.org/ftp/arxiv/papers/2209/2209.03166.pdf) 
+
+**Zhibo Zhang**, Ernesto Damiani, Hussam Hamadi, Chan Yeob Yeun, Fatma Taher
+
+#### [**International Conference on Cyber Resilience (ICCR)**](https://iccr.gaftim.com/)
+
+### [PDF📃](https://arxiv.org/ftp/arxiv/papers/2209/2209.03166.pdf)
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ADCIS 2022</div><img src='images/ADCISvisualization.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
