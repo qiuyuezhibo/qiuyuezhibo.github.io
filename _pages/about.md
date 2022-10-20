@@ -132,7 +132,7 @@ I am now doing research under the guidance of [Prof. Ernesto Damiani](https://ww
 - *2020.08*: 🥈🥈 I join the National University of Singapore Suzhou Institute as an exchange student and start my Final Year Project for my Bachelor!
 
 # 📝 Submitted Papers
-- *2022.09*: **New Late Multi-Modal Fusion Frameworks for Detecting Hybrid Spam E-mail** submitted to [**2023 the 2nd International Conference on Mechatronics and Electrical Engineering (MEEE 2023)**](http://www.meee.org/), under review
+- *2022.10*: **New Late Multi-Modal Fusion Frameworks for Detecting Hybrid Spam E-mail** submitted to [**2023 the 2nd International Conference on Mechatronics and Electrical Engineering (MEEE 2023)**](http://www.meee.org/), accepted
 - *2022.08*: **Explainable Artificial Intelligence to Detect Image Spam Using Convolutional Neural Network** submitted to [**International Conference on Cyber Resilience (ICCR 2022)**](https://iccr.gaftim.com/), accepted
 - *2022.08*: **Explainable Artificial Intelligence Applications in Cyber Security: State-of-the-Art in Research** submitted to **IEEE ACCESS**, accepted
 - *2022.06*: **Person Monitoring by Full Body Tracking in Uniform Crowd Environment** submitted to [**International Conference on Advances in Data-driven Computing and Intelligent Systems (ADCIS 2022)**](https://www.adcis22.scrs.in/), accepted
