@@ -121,6 +121,7 @@ I am now doing research under the guidance of [Prof. Ernesto Damiani](https://ww
 </div>
 
 # 🔥 News
+- *2022.10*: 🎉🎉 One paper is accepted by MEEE 2023!
 - *2022.09*: 🎉🎉 One paper is accepted by ICCR 2022!
 - *2022.08*: 🎉🎉 One paper is accepted by IEEE Access!
 - *2022.08*: 🎉🎉 One paper is accepted by ADCIS 2022!
