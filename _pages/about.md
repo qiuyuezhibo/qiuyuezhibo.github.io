@@ -121,6 +121,7 @@ I am now doing research under the guidance of [Prof. Ernesto Damiani](https://ww
 </div>
 
 # 🔥 News
+- *2022.12*: 🎉🎉 I am awarded the Prize for Outstanding Young Researcher by Khalifa University!
 - *2022.10*: 🎉🎉 One paper is accepted by MEEE 2023!
 - *2022.09*: 🎉🎉 One paper is accepted by ICCR 2022!
 - *2022.08*: 🎉🎉 One paper is accepted by IEEE Access!
@@ -193,6 +194,7 @@ I am now doing research under the guidance of [Prof. Ernesto Damiani](https://ww
 🏆 Honors and Awards
 ======
 
+- Award for Outstanding Young Researcher, Khalifa University, Dec 2022
 - Mater of Research and Teaching Scholarship, Khalifa University, Sep 2021
 - Outstanding Undergraduate Scholarship of NPU; Dec 2019, Dec 2020
 - First Class Outstanding Undergraduate Scholarship of NPU; Dec 2018
