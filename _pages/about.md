@@ -70,7 +70,7 @@ I am now doing research under the guidance of [Prof. Ernesto Damiani](https://ww
 
 - **Academic Grades:**
 
-  **GPA:** 3.78/4.0  
+  **GPA:** 3.81/4.0  
   
 - **Courses:**  Advanced Linear Systems, Advanced Operating Systems, Data Science, Advanced Computer Network, Deep Learning System Design and Simulation and 8 others.
 
