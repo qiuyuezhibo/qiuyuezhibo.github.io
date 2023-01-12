@@ -121,6 +121,7 @@ I am now doing research under the guidance of [Prof. Ernesto Damiani](https://ww
 </div>
 
 # 🔥 News
+- *2022.10*: 🎉🎉 One paper is accepted by Energies!
 - *2022.12*: 🎉🎉 I am awarded the Prize for Outstanding Young Researcher by Khalifa University!
 - *2022.10*: 🎉🎉 One paper is accepted by MEEE 2023!
 - *2022.09*: 🎉🎉 One paper is accepted by ICCR 2022!
@@ -133,6 +134,7 @@ I am now doing research under the guidance of [Prof. Ernesto Damiani](https://ww
 - *2020.08*: 🥈🥈 I join the National University of Singapore Suzhou Institute as an exchange student and start my Final Year Project for my Bachelor!
 
 # 📝 Submitted Papers
+- *2022.10*: **Multi-Feature Data Fusion Based Load Forecasting of Electric Vehicle Charging Stations Using Deep Learning Model** submitted to **Energies**, accepted
 - *2022.10*: **New Late Multi-Modal Fusion Frameworks for Detecting Hybrid Spam E-mail** submitted to [**2023 the 2nd International Conference on Mechatronics and Electrical Engineering (MEEE 2023)**](http://www.meee.org/), accepted
 - *2022.08*: **Explainable Artificial Intelligence to Detect Image Spam Using Convolutional Neural Network** submitted to [**International Conference on Cyber Resilience (ICCR 2022)**](https://iccr.gaftim.com/), accepted
 - *2022.08*: **Explainable Artificial Intelligence Applications in Cyber Security: State-of-the-Art in Research** submitted to **IEEE ACCESS**, accepted
