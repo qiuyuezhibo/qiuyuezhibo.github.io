@@ -21,11 +21,11 @@ redirect_from:
 
 Welcome to my personal page! 
 
-My name is Zhibo Zhang (张志博), a graduate master student of [Kalifa University](https://www.ku.ac.ae/), [Department of Electrical Engineering and Computer Science](https://www.ku.ac.ae/people-types/department-of-electrical-engineering-and-computer-science/), majoring in Electrical and Computer Engineering. I also work in this department as a research and teaching assistant with a full scholarship. Expecting to graduate in 2023.06 with a master’s degree, I am now trying to find opportunities to continue my career as a Ph.D. student. My research interests include cyber security, cyber-physical systems, edge computing, federated learning, trustworthy AI, and the intersection between cyber security & explainable AI (XAI).
+My name is Zhibo Zhang (张志博), a graduate master student of [Kalifa University](https://www.ku.ac.ae/), [Department of Electrical Engineering and Computer Science](https://www.ku.ac.ae/people-types/department-of-electrical-engineering-and-computer-science/), majoring in Electrical and Computer Engineering. I also work in this department as a research and teaching assistant with a full scholarship. Expecting to graduate in 2023.06 with a master’s degree, I am now trying to find opportunities to continue my career as a Ph.D. student. My research interests include biometrics, cyber-physical systems, edge computing, federated learning, trustworthy AI, and the intersection between cyber security & explainable AI (XAI).
 
 I graduated from [Northwestern Polytechnical University](https://en.nwpu.edu.cn/) with a bachelor's degree in Mechatronic Engineering with honor. During my final year of my bachelor, I studied at the [National University of Singapore Suzhou Institute](http://en.nusri.cn/) as an exchange student. And I finished my Final Year of Project advised by [Dr. Peter C. Y. Chen](https://cde.nus.edu.sg/me/staff/chen-chao-yu-peter/) there.
 
-I am now doing research under the guidance of [Prof. Ernesto Damiani](https://www.ku.ac.ae/academics/college-of-engineering/department/department-of-electrical-engineering-and-computer-science/people/prof-ernesto-damiani), [Dr. Chan Yeob Yeun](https://www.ku.ac.ae/academics/college-of-engineering/department/department-of-electrical-engineering-and-computer-science/people/dr-chan-yeob-yeun), [Dr. Hussam Al Hamadi](https://www.ku.ac.ae/college-people/dr-hussam-al-hammadi), and [Dr. Fatma Taher](https://www.zu.ac.ae/main/en/colleges/colleges/__college_of_technological_innovation/faculty_and_staff/_profiles/Fatma_Taher.aspx) at [Center for Cyber-Physical Systems (C2PS)](https://www.ku.ac.ae/c2ps). I am now working in areas about developing cyber-physical systems using explainable AI.
+I am now doing research under the guidance of [Prof. Ernesto Damiani](https://www.ku.ac.ae/academics/college-of-engineering/department/department-of-electrical-engineering-and-computer-science/people/prof-ernesto-damiani), [Dr. Chan Yeob Yeun](https://www.ku.ac.ae/academics/college-of-engineering/department/department-of-electrical-engineering-and-computer-science/people/dr-chan-yeob-yeun), [Dr. Hussam Al Hamadi](https://www.ku.ac.ae/college-people/dr-hussam-al-hammadi), and [Dr. Fatma Taher](https://www.zu.ac.ae/main/en/colleges/colleges/__college_of_technological_innovation/faculty_and_staff/_profiles/Fatma_Taher.aspx) at [Center for Cyber-Physical Systems (C2PS)](https://www.ku.ac.ae/c2ps). I am now working in areas about developing secure cyber-physical systems using explainable AI.
 
 
 📖 Educations
@@ -72,7 +72,7 @@ I am now doing research under the guidance of [Prof. Ernesto Damiani](https://ww
 
   **GPA:** 3.81/4.0  
   
-- **Courses:**  Advanced Linear Systems, Advanced Operating Systems, Data Science, Advanced Computer Network, Deep Learning System Design and Simulation and 8 others.
+- **Courses:**  Artificial Intelligence for Cyber Security, Advanced Operating Systems, Data Science, Advanced Computer Network, Deep Learning System Design and Simulation and 8 others.
 
 - **Project:** Suspicious Spam Filtering Using Explainable Artificial Intelligence.
 
@@ -95,30 +95,18 @@ I am now doing research under the guidance of [Prof. Ernesto Damiani](https://ww
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCR 2022</div><img src='images/ICCRsamplefigure.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-## [Explainable Artificial Intelligence to Detect Image Spam Using Convolutional Neural Network](https://arxiv.org/ftp/arxiv/papers/2209/2209.03166.pdf) 
+## [Explainable Data Poison Attacks on Human Emotion Evaluation Systems based on EEG Signals](https://arxiv.org/ftp/arxiv/papers/2301/2301.06923.pdf) 
 
-**Zhibo Zhang**, Ernesto Damiani, Hussam Hamadi, Chan Yeob Yeun, Fatma Taher
+**Zhibo Zhang**, Sani Umar, Ahmed Y. Al Hammadi, Sangyoung Yoon, Ernesto Damiani, Claudio Agostino Ardagna, Nicola Bena, Chan Yeob Yeun
 
-#### [**International Conference on Cyber Resilience (ICCR)**](https://iccr.gaftim.com/)
-
-### [PDF📃](https://arxiv.org/ftp/arxiv/papers/2209/2209.03166.pdf)
+### [PDF📃](https://arxiv.org/ftp/arxiv/papers/2301/2301.06923.pdf)    [Project Page🔗](https://github.com/qiuyuezhibo/XAIEEG)
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ADCIS 2022</div><img src='images/ADCISvisualization.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ADCIS 2022</div><img src='images/XAIEEG.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-## [Person Monitoring by Full Body Tracking in Uniform Crowd Environment](https://arxiv.org/ftp/arxiv/papers/2209/2209.01274.pdf) 
-
-**Zhibo Zhang**, Omar Alremeithi, Maryam Almheiri, Marwa Albeshr, Xiaoxiong Zhang, Sajid Javed, Naoufel Werghi
-
-#### [**International Conference on Advances in Data-driven Computing and Intelligent Systems (ADCIS 2022)**](https://www.adcis22.scrs.in/)
-
-### [PDF📃](https://arxiv.org/ftp/arxiv/papers/2208/2208.14937.pdf)  [Project Page🔗](https://github.com/qiuyuezhibo/kandora-and-abaya-uniform-tracking-dataset)
-
-</div>
-</div>
 
 # 🔥 News
 - *2023.01*: 🎉🎉 One paper is accepted by Energies!
@@ -170,13 +158,13 @@ I am now doing research under the guidance of [Prof. Ernesto Damiani](https://ww
 
 ***
 
-###  **Person Monitoring by Full Body Tracking in Uniform Crowd Environment**        
+###  **Human Emotion Analysis based on EEG Signals**        
 
-> ***Python, Deep Learning, Body Tracking*** 
+> ***Python, Machine Learning, Biometrcis, Explainable Artificial Intelligence*** 
 >
-> **Feb 2022 - June 2022**
+> **Aug 2022 - June 2023**
 
-- Uniform Crowd Environment was established in the Computer Vision Lab of Khalifa University. A large number of videos including people wearing the traditional uniforms of the middle east were shotted and collected. Annotations were done on the platform of [Computer Vision Annotation Tool(CVAT)]( https://cvat.org/). The conventional Deep Learning-based tracker **STARK** was implemented to track people in the uniform crowd. And the **refined tracker** adapted to the crowd environment was also implemented to track people and compared with the conventional tracker.
+- The identification of human emotional states based on EEG signals is effective to detect potential internal threats caused by insider individuals. Therefore, the generation and analysis of EEG data using state-of-the-art Machine Learning and Explainable Artificial Intelligence methods are the main aims of this project.
 
 ***
 
