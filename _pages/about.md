@@ -92,6 +92,9 @@ I am now doing research under the guidance of [Prof. Ernesto Damiani](https://ww
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ADCIS 2022</div><img src='images/XAIEEG.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
 ## [Explainable Data Poison Attacks on Human Emotion Evaluation Systems based on EEG Signals](https://arxiv.org/ftp/arxiv/papers/2301/2301.06923.pdf) 
 
 **Zhibo Zhang**, Sani Umar, Ahmed Y. Al Hammadi, Sangyoung Yoon, Ernesto Damiani, Claudio Agostino Ardagna, Nicola Bena, Chan Yeob Yeun
@@ -100,10 +103,6 @@ I am now doing research under the guidance of [Prof. Ernesto Damiani](https://ww
 
 </div>
 </div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ADCIS 2022</div><img src='images/XAIEEG.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
 
 # 🔥 News
 - *2023.01*: 🎉🎉 One paper is accepted by Energies!
