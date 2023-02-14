@@ -35,7 +35,7 @@ I am now doing research under the guidance of [Prof. Ernesto Damiani](https://ww
 
 > ### **Northwestern Polytechnical University**   📅 **[Sep 2017 -- Jun 2021]**
 >
->  Bachelor of Science in **Mechatronic Engineering** (with honor)
+>  Bachelor of Science in **Mechatronic Engineering**
 
 ---------------------------------------------------- -------------------------
 
@@ -107,12 +107,9 @@ I am now doing research under the guidance of [Prof. Ernesto Damiani](https://ww
 # 🔥 News
 - *2023.01*: 🎉🎉 One paper is accepted by Energies!
 - *2022.12*: 🎉🎉 I am awarded the Prize for Outstanding Young Researcher by Khalifa University!
-- *2022.10*: 🎉🎉 One paper is accepted by MEEE 2023!
-- *2022.09*: 🎉🎉 One paper is accepted by ICCR 2022!
 - *2022.08*: 🎉🎉 One paper is accepted by IEEE Access!
-- *2022.08*: 🎉🎉 One paper is accepted by ADCIS 2022!
 - *2021.08*: I arrive in Abu Dhabi, UAE, and start my master's career there!
-- *2021.07*: 👨‍🎓👨‍🎓 I get my bachelor’s degree with honors!
+- *2021.07*: 👨‍🎓👨‍🎓 I get my bachelor’s degree!
 - *2021.03*: 🎉🎉 I acquire a qualification of postgraduate recommendation, and decide to pursue my master’s degree in Kalifa University!
 - *2020.08*: 🎉🎉 I am awarded outstanding student by NWPU for three consecutive years!
 - *2020.08*: 🥈🥈 I join the National University of Singapore Suzhou Institute as an exchange student and start my Final Year Project for my Bachelor!
