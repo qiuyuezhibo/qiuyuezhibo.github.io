@@ -105,6 +105,7 @@ I am now doing research under the guidance of [Prof. Ernesto Damiani](https://ww
 </div>
 
 # 🔥 News
+- *2023.07*: 👨‍🎓👨‍🎓 I get my master’s degree!
 - *2023.01*: 🎉🎉 One paper is accepted by Energies!
 - *2022.12*: 🎉🎉 I am awarded the Prize for Outstanding Young Researcher by Khalifa University!
 - *2022.08*: 🎉🎉 One paper is accepted by IEEE Access!
