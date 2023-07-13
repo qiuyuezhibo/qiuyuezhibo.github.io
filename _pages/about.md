@@ -62,7 +62,7 @@ I am now doing research under the guidance of [Prof. Ernesto Damiani](https://ww
 
 -   ---------------------------------------------------- -------------------------
 
-> ### **Khalifa University**   📅 **[Sep 2021 -- Jun 2023 (expected)]**
+> ### **Khalifa University**   📅 **[Sep 2021 -- July 2023]**
 >
 >  Master of Science in **Electrical and Computer Engineering**
 
@@ -116,6 +116,8 @@ I am now doing research under the guidance of [Prof. Ernesto Damiani](https://ww
 - *2020.08*: 🥈🥈 I join the National University of Singapore Suzhou Institute as an exchange student and start my Final Year Project for my Bachelor!
 
 # 📝 Submitted Papers
+- *2023.07*: **A Robust Adversary Detection-Deactivation Method for Metaverse-oriented Collaborative Deep Learning** submitted to **IEEE SENSORS**
+- *2023.02*: **Explainable Data Poison Attacks on Human Emotion Evaluation Systems based on EEG Signals** submitted to **IEEE ACCESS**, accepted
 - *2023.01*: **Multi-Feature Data Fusion Based Load Forecasting of Electric Vehicle Charging Stations Using Deep Learning Model** submitted to **Energies**, accepted
 - *2022.10*: **New Late Multi-Modal Fusion Frameworks for Detecting Hybrid Spam E-mail** submitted to [**2023 the 2nd International Conference on Mechatronics and Electrical Engineering (MEEE 2023)**](http://www.meee.org/), accepted
 - *2022.08*: **Explainable Artificial Intelligence to Detect Image Spam Using Convolutional Neural Network** submitted to [**International Conference on Cyber Resilience (ICCR 2022)**](https://iccr.gaftim.com/), accepted
