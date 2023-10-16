@@ -105,19 +105,20 @@ I graduated from [Khalifa University](https://www.ku.ac.ae/) with a master's deg
 </div>
 
 # 🔥 News
+
+- *2023.10*: 🎉🎉 One paper is accepted by IEEE Sensors!
+- *2023.09*: 🎉🎉 I arrive in Hong Kong SAR, China, and start my Research Assistant there!
 - *2023.07*: 👨‍🎓👨‍🎓 I get my master’s degree!
 - *2023.01*: 🎉🎉 One paper is accepted by Energies!
 - *2022.12*: 🎉🎉 I am awarded the Prize for Outstanding Young Researcher by Khalifa University!
 - *2022.08*: 🎉🎉 One paper is accepted by IEEE Access!
 - *2021.08*: I arrive in Abu Dhabi, UAE, and start my master's career there!
 - *2021.07*: 👨‍🎓👨‍🎓 I get my bachelor’s degree!
-- *2021.03*: 🎉🎉 I acquire a qualification of postgraduate recommendation, and decide to pursue my master’s degree at Kalifa University!
-- *2020.08*: 🎉🎉 I am awarded outstanding student by NWPU for three consecutive years!
-- *2020.08*: 🥈🥈 I join the National University of Singapore Suzhou Institute as an exchange student and start my Final Year Project for my Bachelor!
+
 
 # 📝 Submitted Papers
 - *2023.07*: **Reputation-Based Federated Learning Defense to Mitigate Threats in EEG Signal Classification** submitted to **IEEE Transactions on Services Computing**
-- *2023.06*: **A Robust Adversary Detection-Deactivation Method for Metaverse-oriented Collaborative Deep Learning** submitted to **IEEE SENSORS**
+- *2023.06*: **A Robust Adversary Detection-Deactivation Method for Metaverse-oriented Collaborative Deep Learning** submitted to **IEEE SENSORS**, accepted
 - *2023.02*: **Explainable Data Poison Attacks on Human Emotion Evaluation Systems based on EEG Signals** submitted to **IEEE ACCESS**, accepted
 - *2023.01*: **Multi-Feature Data Fusion Based Load Forecasting of Electric Vehicle Charging Stations Using Deep Learning Model** submitted to **Energies**, accepted
 - *2022.10*: **New Late Multi-Modal Fusion Frameworks for Detecting Hybrid Spam E-mail** submitted to [**2023 the 2nd International Conference on Mechatronics and Electrical Engineering (MEEE 2023)**](http://www.meee.org/), accepted
