@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zhibo Zhang"
-description              : "A graduate master student majoring in Electrical and Computer Engineering. Focusing on explainable AI, biometrics informatics, and cyber-physical systems"
+description              : "A Research Assistant at City University of Hong Kong. Focusing on explainable AI, autonomous vehicles, and cyber-physical systems"
 repository               : "qiuyuezhibo/qiuyuezhibo.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Zhibo Zhang"
   avatar           : "images/Zhibo_Zhang_white.jpg"
-  bio              : "Khalifa University, master student"
-  location         : "Abu Dhabi， UAE"
+  bio              : "City University of Hong Kong, Research Assistant"
+  location         : "Hong Kong SAR"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com.hk/citations?user=Cb9-xKcAAAAJ&hl"
