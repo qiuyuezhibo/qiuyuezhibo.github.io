@@ -21,7 +21,7 @@ redirect_from:
 
 Welcome to my personal page! 
 
-My name is Zhibo Zhang (张志博), a research assistant at [City University of Hong Kong](https://www.cityu.edu.hk/), [Department of Computer Science](https://www.cs.cityu.edu.hk/). I am supervised by [Prof. Shiqi Wang](https://www.cs.cityu.edu.hk/~shiqwang/) I am now trying to find opportunities to continue my career as a Ph.D. student. My research interests include smart grids, cyber-physical systems, edge computing, federated learning and explainable AI (XAI).
+My name is Zhibo Zhang (张志博), a Phd student at [University of New South Wales, Canberra](https://www.unsw.edu.au/canberra), [Department of Computer Science](https://www.cs.cityu.edu.hk/). I am supervised by [Prof. Shiqi Wang](https://www.cs.cityu.edu.hk/~shiqwang/) I am now trying to find opportunities to continue my career as a Ph.D. student. My research interests include smart grids, cyber-physical systems, edge computing, federated learning and explainable AI (XAI).
 
 I graduated from [Northwestern Polytechnical University](https://en.nwpu.edu.cn/) with a bachelor's degree in Mechatronic Engineering. During my final year of my bachelor's, I studied at the [National University of Singapore Suzhou Institute](http://en.nusri.cn/) as an exchange student. And I finished my Final Year of Project advised by [Dr. Peter C. Y. Chen](https://cde.nus.edu.sg/me/staff/chen-chao-yu-peter/) there.
 
