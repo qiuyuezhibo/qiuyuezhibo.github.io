@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zhibo Zhang"
-description              : "A Phd student at UNSW, Canberra. Focusing on cyber-physical systems"
+description              : "A Phd student at UNSW, Canberra. Focusing on cyber-physical systems and smart grid"
 repository               : "qiuyuezhibo/qiuyuezhibo.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -28,8 +28,8 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com.hk/citations?user=Cb9-xKcAAAAJ&hl"
-  email            : "qiuyuezhibo@gmail.com"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
+  email            : "zhibo.zhang3@unsw.edu.au"
+  researchgate     : "https://www.researchgate.net/profile/Zhibo-Zhang-26"
   uri              :
   bitbucket        :
   codepen          :
