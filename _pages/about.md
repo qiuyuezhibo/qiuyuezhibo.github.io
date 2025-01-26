@@ -53,34 +53,6 @@ I graduated from [Khalifa University](https://www.ku.ac.ae/) with a master's deg
 >  Bachelor of Science in **Mechatronic Engineering**
 
 
-# 📝 Publications 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Access 2022</div><img src='images/XAIcybersecurity.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-## [Explainable Artificial Intelligence Applications in Cyber Security: State-of-the-Art in Research](https://arxiv.org/ftp/arxiv/papers/2208/2208.14937.pdf) 
-
-**Zhibo Zhang**, Hussam Hamadi, Ernesto Damiani, Chan Yeob Yeun, Fatma Taher
-
-#### IEEE Access 2022
-
-### [PDF📃](https://arxiv.org/ftp/arxiv/papers/2208/2208.14937.pdf)  [Project Page🔗](https://ieeexplore.ieee.org/document/9875264)
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Access 2023</div><img src='images/XAIEEG.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-  
-## [Explainable Data Poison Attacks on Human Emotion Evaluation Systems based on EEG Signals](https://arxiv.org/ftp/arxiv/papers/2301/2301.06923.pdf) 
-
-**Zhibo Zhang**, Sani Umar, Ahmed Y. Al Hammadi, Sangyoung Yoon, Ernesto Damiani, Claudio Agostino Ardagna, Nicola Bena, Chan Yeob Yeun
-
-### [PDF📃](https://arxiv.org/ftp/arxiv/papers/2301/2301.06923.pdf)    [Project Page🔗](https://github.com/qiuyuezhibo/XAIEEG)
-
-</div>
-</div>
-
 # 🔥 News
 
 - *2023.10*: 🎉🎉 One paper is accepted by IEEE Sensors!
