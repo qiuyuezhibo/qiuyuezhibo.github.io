@@ -37,44 +37,18 @@ I graduated from [Khalifa University](https://www.ku.ac.ae/) with a master's deg
 >
 >  Bachelor of Science in **Mechatronic Engineering**
 
----------------------------------------------------- -------------------------
-
-- **Academic Grades:**
-
-  **GPA:** 85.38/100   
-  
-- **Courses:**  C Programming, Linear Algebra, Probability Theory and Mathematical Statistics, Electronic Systems Modeling and Simulation and others.
-
-
 -   ---------------------------------------------------- -------------------------
 
 > ### **National University of Singapore Suzhou Institute**   📅 **[Sep 2020 -- Jun 2021]**
-
----------------------------------------------------- -------------------------
-
-- **Academic Grades:**
-
-  **GPA:** 89.42/100   
-  
-- *Courses:**  Modern Control System, Microsystems Design and Applications and Fundamentals of Product Design and Development.
-
-- **Project:** Modeling of Human Navigation Behavior Using Reinforcement Learning.
+>
+>  Exchange student
 
 -   ---------------------------------------------------- -------------------------
 
-> ### **Khalifa University**   📅 **[Sep 2021 -- July 2023]**
+> ### **Khalifa University**   📅 **[Sep 2021 -- June 2023]**
 >
 >  Master of Science in **Electrical and Computer Engineering**
 
----------------------------------------------------- -------------------------
-
-- **Academic Grades:**
-
-  **GPA:** 3.84/4.0  
-  
-- **Courses:**  Artificial Intelligence for Cyber Security, Advanced Operating Systems, Data Science, Advanced Computer Network, Deep Learning System Design and Simulation and 8 others.
-
-- **Project:** Suspicious Spam Filtering Using Explainable Artificial Intelligence.
 
 # 📝 Publications 
 
