@@ -43,7 +43,7 @@ I graduated from [Khalifa University](https://www.ku.ac.ae/) with a master's deg
 
   **GPA:** 85.38/100   
   
-- *Courses:**  C Programming, Linear Algebra, Probability Theory and Mathematical Statistics, Electronic Systems Modeling and Simulation and others.
+- **Courses:**  C Programming, Linear Algebra, Probability Theory and Mathematical Statistics, Electronic Systems Modeling and Simulation and others.
 
 
 -   ---------------------------------------------------- -------------------------
