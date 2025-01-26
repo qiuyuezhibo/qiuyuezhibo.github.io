@@ -30,6 +30,10 @@ I graduated from [Khalifa University](https://www.ku.ac.ae/) with a master's deg
 
 📖 Educations
 =========
+-   ---------------------------------------------------- -------------------------
+> ### **University of New South Wales**   📅 **[Feb 2024 -- Now]**
+>
+>  Phd candidate in **Computer Science**
 
 -   ---------------------------------------------------- -------------------------
 > ### **Khalifa University**   📅 **[Sep 2021 -- June 2023]**
