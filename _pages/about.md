@@ -66,7 +66,7 @@ I graduated from [Khalifa University](https://www.ku.ac.ae/) with a master's deg
 
 
 # 📝 Publications
-- *2024.10*: **	A Method for Battery SoH Estimation Based on K-means and LightGBM algorithm** accepted by ** 6th International Conference on System Reliability and Safety Engineering (SRSE)**
+- *2024.10*: **A Method for Battery SoH Estimation Based on K-means and LightGBM algorithm** accepted by ** 6th International Conference on System Reliability and Safety Engineering (SRSE)**
 - *2024.09*: **Enhancing Reliability and Performance of Load Frequency Control in Aging Multi-Area Power Systems under Cyber-Attacks** accepted by **Applied Sciences**
 - *2024.08*: **Experimental Demonstration of Risks and Influences of Cyber Attacks on Wireless Communication in Microgrids** accepted by **21st Annual International Conference on Privacy, Security and Trust (PST)**
 - *2024.08*: **Towards SAR Automatic Target Recognition: Multi-Category SAR Image Classification Based on Light Weight Vision Transformer** accepted by **21st Annual International Conference on Privacy, Security and Trust (PST)**
