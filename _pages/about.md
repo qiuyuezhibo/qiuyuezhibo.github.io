@@ -32,10 +32,9 @@ I graduated from [Khalifa University](https://www.ku.ac.ae/) with a master's deg
 =========
 
 -   ---------------------------------------------------- -------------------------
-
-> ### **Northwestern Polytechnical University**   📅 **[Sep 2017 -- Jun 2021]**
+> ### **Khalifa University**   📅 **[Sep 2021 -- June 2023]**
 >
->  Bachelor of Science in **Mechatronic Engineering**
+>  Master of Science in **Electrical and Computer Engineering**
 
 -   ---------------------------------------------------- -------------------------
 
@@ -45,9 +44,9 @@ I graduated from [Khalifa University](https://www.ku.ac.ae/) with a master's deg
 
 -   ---------------------------------------------------- -------------------------
 
-> ### **Khalifa University**   📅 **[Sep 2021 -- June 2023]**
+> ### **Northwestern Polytechnical University**   📅 **[Sep 2017 -- Jun 2021]**
 >
->  Master of Science in **Electrical and Computer Engineering**
+>  Bachelor of Science in **Mechatronic Engineering**
 
 
 # 📝 Publications 
