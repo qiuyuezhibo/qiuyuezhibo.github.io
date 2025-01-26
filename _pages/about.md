@@ -65,15 +65,20 @@ I graduated from [Khalifa University](https://www.ku.ac.ae/) with a master's deg
 - *2021.07*: 👨‍🎓👨‍🎓 I get my bachelor’s degree!
 
 
-# 📝 Submitted Papers
-- *2023.07*: **Reputation-Based Federated Learning Defense to Mitigate Threats in EEG Signal Classification** submitted to **IEEE Transactions on Services Computing**
-- *2023.06*: **A Robust Adversary Detection-Deactivation Method for Metaverse-oriented Collaborative Deep Learning** submitted to **IEEE SENSORS**, accepted
-- *2023.02*: **Explainable Data Poison Attacks on Human Emotion Evaluation Systems based on EEG Signals** submitted to **IEEE ACCESS**, accepted
-- *2023.01*: **Multi-Feature Data Fusion Based Load Forecasting of Electric Vehicle Charging Stations Using Deep Learning Model** submitted to **Energies**, accepted
-- *2022.10*: **New Late Multi-Modal Fusion Frameworks for Detecting Hybrid Spam E-mail** submitted to [**2023 the 2nd International Conference on Mechatronics and Electrical Engineering (MEEE 2023)**](http://www.meee.org/), accepted
-- *2022.08*: **Explainable Artificial Intelligence to Detect Image Spam Using Convolutional Neural Network** submitted to [**International Conference on Cyber Resilience (ICCR 2022)**](https://iccr.gaftim.com/), accepted
-- *2022.08*: **Explainable Artificial Intelligence Applications in Cyber Security: State-of-the-Art in Research** submitted to **IEEE ACCESS**, accepted
-- *2022.06*: **Person Monitoring by Full Body Tracking in Uniform Crowd Environment** submitted to [**International Conference on Advances in Data-driven Computing and Intelligent Systems (ADCIS 2022)**](https://www.adcis22.scrs.in/), accepted
+# 📝 Publications
+- *2024.10*: **	A Method for Battery SoH Estimation Based on K-means and LightGBM algorithm** accepted by ** 6th International Conference on System Reliability and Safety Engineering (SRSE)**
+- *2024.09*: **Enhancing Reliability and Performance of Load Frequency Control in Aging Multi-Area Power Systems under Cyber-Attacks** accepted by **Applied Sciences**
+- *2024.08*: **Experimental Demonstration of Risks and Influences of Cyber Attacks on Wireless Communication in Microgrids** accepted by **21st Annual International Conference on Privacy, Security and Trust (PST)**
+- *2024.08*: **Towards SAR Automatic Target Recognition: Multi-Category SAR Image Classification Based on Light Weight Vision Transformer** accepted by **21st Annual International Conference on Privacy, Security and Trust (PST)**
+- *2024.07*: **A hybrid stacking model for enhanced short-term load forecasting** accepted by **Electronics**
+- *2024.06*: **Research on Older Adults’ Interaction with E-Health Interface Based on Explainable Artificial Intelligence** accepted by **International Conference on Human-Computer Interaction (HCII)**
+- *2023.10*: **A Robust Adversary Detection-Deactivation Method for Metaverse-Oriented Collaborative Deep Learning** accepted by **IEEE Sensors Journal**
+- *2023.07*: **Reputation-Based Federated Learning Defense to Mitigate Threats in EEG Signal Classification** accepted by **International Conference on Computer and Automation Engineering (ICCAE 2024)**
+- *2023.02*: **Explainable Data Poison Attacks on Human Emotion Evaluation Systems based on EEG Signals** accepted by **IEEE ACCESS**
+- *2023.01*: **Multi-Feature Data Fusion Based Load Forecasting of Electric Vehicle Charging Stations Using Deep Learning Model** accepted by **Energies**
+- *2022.08*: **Explainable Artificial Intelligence to Detect Image Spam Using Convolutional Neural Network** accepted by **International Conference on Cyber Resilience (ICCR 2022)**
+- *2022.08*: **Explainable Artificial Intelligence Applications in Cyber Security: State-of-the-Art in Research** accepted by **IEEE ACCESS**
+
 
 ✨ Technical Skills
 ================
