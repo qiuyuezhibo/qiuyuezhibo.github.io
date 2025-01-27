@@ -80,7 +80,7 @@ I graduated from [Khalifa University](https://www.ku.ac.ae/) with a master's deg
 - *2022.08*: **Explainable Artificial Intelligence Applications in Cyber Security: State-of-the-Art in Research** accepted by **IEEE ACCESS**
 
 
-✨ Technical Skills
+✨ Skills
 ================
 
 ***
@@ -96,39 +96,43 @@ I graduated from [Khalifa University](https://www.ku.ac.ae/) with a master's deg
 - **Technical Tools:**
   - Kali, GNS3, PowerFactory, Solidity
 
+
 🏆 Honors and Awards
 ======
-
+- Best Oral Presentation, SRSE 2024 Conference, OCT 2024
+- UNSW PhD Research Full Scholarship, UNSW, Feb 2024
 - Award for Outstanding Young Researcher, Khalifa University, Dec 2022
 - Mater of Research and Teaching Scholarship, Khalifa University, Sep 2021
-- Outstanding Undergraduate Scholarship of NPU; Dec 2019, Dec 2020
-- First Class Outstanding Undergraduate Scholarship of NPU; Dec 2018
+- Outstanding Undergraduate Scholarship of NPU; Dec 2019, Dec 2018
+
+
+✨ Academic Services
+======
+- Founder and Chair of IEEE Industry Applications Society ACT Student Branch Chapter
+- Serve as a reviewer for many prestigious journals including, IEEE Transactions on Services Computing, IEEE Transactions on Computers, IEEE Open Journal of the Computer Society, IEEE Transactions on Emerging Topics in Computational Intelligence, Journal of parallel and distributed computing, etc.
+- Serve as a technical committee member for conferences, including 16th International Conference on Computer and Automation Engineering (ICCAE 2024), 7th International Conference on Control, Robotics and Informatics (ICCRI 2024), 13th International Conference on Software and Computing Technologies (ICSCT 2024), etc.
+
 
 💻 Experiences
 ==========
 
 -   ------------------------------------------------ -------------------------
 
-> ### **Graduate Record Examinations (GRE)** 
+> ### **Research Assistant at City University of Hong Kong**     
 >
-> > **Apr 2021**
+> > **Sep 2023 -- Feb 2024**
 >
-
-- Verbal: 156; Quantitative: 170; Writing: 3.0.
-
-***
-
-> ### **Teaching Assistant work at Khalifa University**     
+> ### **Tutor work at Khalifa University**     
 >
 > > **Sep 2021 -- Feb 2022**
 >
-> > ***Teaching Assistant of undergraduate course， Introduction to Computing Using MATLAB(ENGR133)***
+> > ***Tutor of undergraduate course， Introduction to Computing Using MATLAB(ENGR133)***
 > >
 > > ***Instructor: Dr. Jamal Alsawalhi***
 >
 > > **Sep 2022 -- Feb 2023**
 >
-> > ***Teaching Assistant of undergraduate course， Foundation of Computer Science(COSC101)***
+> > ***Tutor of undergraduate course， Foundation of Computer Science(COSC101)***
 > >
 > > ***Instructor: Dr. Rabeb Mizouni***
 
