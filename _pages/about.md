@@ -86,52 +86,15 @@ I graduated from [Khalifa University](https://www.ku.ac.ae/) with a master's deg
 ***
 
 - **Programming Languages**: 
-  - Python, C/C++, SQL, MATLAB\...
+  - Python, C/C++, SQL, MATLAB, 
 - **Script Tools/Text Editor/Management Tools:**
   - Shell, Vim, Git, Latex, Office
 - **Language:**
   - Mandarin (Native)
   - English (IELTS: 7.5, W: 6.5, R: 9.0, L: 8.0, S:6.5)
   - Japanese (Beginner)
-- **Media Processing:**
-  - Adobe PR, Adobe PS
-
-
-⌨ Projects
-========
-
-###  **Suspicious Spam and Malware Filtering Using Explainable Artificial Intelligence**        
-
-> ***Python, LIME, SHAP*** 
->
-> **Feb 2022 - May 2023(expected)**
-
-- Realize the filtering of suspicious spam messages in Internet using **explainable AI**. Different Machine Learning and Deep Learning algorithms including **CNN, Decision Tree, Random Forest** would be deployed whereas explainable approaches including **LIME** and **SHAP** would be utilized to provide good explanations for generated decisions.
-
-***
-
-###  **Human Emotion Analysis based on EEG Signals**        
-
-> ***Python, Machine Learning, Biometrcis, Explainable Artificial Intelligence*** 
->
-> **Aug 2022 - June 2023**
-
-- The identification of human emotional states based on EEG signals is effective to detect potential internal threats caused by insider individuals. Therefore, the generation and analysis of EEG data using state-of-the-art Machine Learning and Explainable Artificial Intelligence methods are the main aims of this project.
-
-***
-
-###  **Modeling of Human Navigation Behavior Using Reinforcement Learning**        
-
-> ***Python, Reinforcement Learning***       
->
-> **Oct 2020 - May 2021**
-
--    Simple modeling of human behavior reacting to **moving obstacles** in an indoor environment.
-
--    The original video was gained from **Suzhou Center Mall** and the annotations were done in [Computer Vision Annotation Tool(CVAT)]( https://cvat.org/).
--   **Q-Learning** algorithm of **Reinforcement Learning** was utilized to model target human’s behavior.
-
-***
+- **Technical Tools:**
+  - Kali, GNS3, PowerFactory, Solidity
 
 🏆 Honors and Awards
 ======
