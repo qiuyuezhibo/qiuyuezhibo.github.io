@@ -55,12 +55,11 @@ I graduated from [Khalifa University](https://www.ku.ac.ae/) with a master's deg
 
 # 🔥 News
 
-- *2023.10*: 🎉🎉 One paper is accepted by IEEE Sensors!
+- *2024.12*: 🎉🎉 I establish and serve as the chair as IEEE Industry Applications Society ACT Student Branch Chapter
+- *2024.02*: 🎉🎉 I arrive in Canberra, Australia, and start my PhD's career there!
 - *2023.09*: 🎉🎉 I arrive in Hong Kong SAR, China, and start my Research Assistant there!
 - *2023.07*: 👨‍🎓👨‍🎓 I get my master’s degree!
-- *2023.01*: 🎉🎉 One paper is accepted by Energies!
 - *2022.12*: 🎉🎉 I am awarded the Prize for Outstanding Young Researcher by Khalifa University!
-- *2022.08*: 🎉🎉 One paper is accepted by IEEE Access!
 - *2021.08*: I arrive in Abu Dhabi, UAE, and start my master's career there!
 - *2021.07*: 👨‍🎓👨‍🎓 I get my bachelor’s degree!
 
