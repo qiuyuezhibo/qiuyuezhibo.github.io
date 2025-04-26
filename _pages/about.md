@@ -21,7 +21,7 @@ redirect_from:
 
 Welcome to my personal page! 
 
-My name is Zhibo Zhang (张志博), a Phd student at [University of New South Wales, Canberra](https://www.unsw.edu.au/canberra), [School of Systems & Computing](https://www.unsw.edu.au/canberra/about-us/our-schools/school-of-systems-and-computing). My supervisors are [Prof. Jiankun Hu](https://research.unsw.edu.au/people/professor-jiankun-hu) and [Prof. Hemanshu Pota](https://research.unsw.edu.au/people/associate-professor-hemanshu-pota)  I am also an external researcher of [Khalifa University, C2PS](https://www.ku.ac.ae/c2ps) advised by [Prof. Ernesto Damiani ](https://www.ku.ac.ae/college-people/ernesto-damiani) and [Dr. Chan Yeob Yeun](https://www.ku.ac.ae/college-people/chan-yeob-yeun). I am trying to find internship opportunities in Australia or online. My research interests include smart grids, cyber-physical systems, and explainable AI (XAI).
+My name is Zhibo Zhang (张志博), a Phd student at [University of New South Wales, Canberra](https://www.unsw.edu.au/canberra), [School of Systems & Computing](https://www.unsw.edu.au/canberra/about-us/our-schools/school-of-systems-and-computing). My supervisors are [Prof. Jiankun Hu](https://research.unsw.edu.au/people/professor-jiankun-hu), [Prof. Hemanshu Pota](https://research.unsw.edu.au/people/associate-professor-hemanshu-pota), [Dr. Shabnam Kasra Kermanshahi](https://www.unsw.edu.au/staff/shabnam-kasra-kermanshahi), and [Prof. Benjamin Turnbull](https://www.unsw.edu.au/staff/benjamin-turnbull) I am also an external researcher of [Khalifa University, C2PS](https://www.ku.ac.ae/c2ps) advised by [Prof. Ernesto Damiani ](https://www.ku.ac.ae/college-people/ernesto-damiani) and [Dr. Chan Yeob Yeun](https://www.ku.ac.ae/college-people/chan-yeob-yeun). I am trying to find internship opportunities in Australia or online. My research interests include smart grids and cyber-physical systems.
 
 I graduated from [Northwestern Polytechnical University](https://en.nwpu.edu.cn/) with a bachelor's degree in Mechatronic Engineering. During my final year of my bachelor's, I studied at the [National University of Singapore Suzhou Institute](http://en.nusri.cn/) as an exchange student. And I finished my Final Year of Project advised by [Dr. Peter C. Y. Chen](https://cde.nus.edu.sg/me/staff/chen-chao-yu-peter/) there.
 
@@ -65,7 +65,7 @@ I graduated from [Khalifa University](https://www.ku.ac.ae/) with a master's deg
 
 
 # 📝 Publications
-- *2024.10*: **A Method for Battery SoH Estimation Based on K-means and LightGBM algorithm** accepted by ** 6th International Conference on System Reliability and Safety Engineering (SRSE)**
+- *2024.10*: **A Method for Battery SoH Estimation Based on K-means and LightGBM algorithm** accepted by **6th International Conference on System Reliability and Safety Engineering (SRSE)**
 - *2024.09*: **Enhancing Reliability and Performance of Load Frequency Control in Aging Multi-Area Power Systems under Cyber-Attacks** accepted by **Applied Sciences**
 - *2024.08*: **Experimental Demonstration of Risks and Influences of Cyber Attacks on Wireless Communication in Microgrids** accepted by **21st Annual International Conference on Privacy, Security and Trust (PST)**
 - *2024.08*: **Towards SAR Automatic Target Recognition: Multi-Category SAR Image Classification Based on Light Weight Vision Transformer** accepted by **21st Annual International Conference on Privacy, Security and Trust (PST)**
