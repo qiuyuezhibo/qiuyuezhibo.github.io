@@ -99,7 +99,9 @@ I graduated from [Khalifa University](https://www.ku.ac.ae/) with a master's deg
 
 🏆 Honors and Awards
 ======
-- Best Oral Presentation, SRSE 2024 Conference, OCT 2024
+- IAS Chapter Establishment Grant, Apr 2025
+- UNSW Development and Research Training Grant (DRTG), Apr 2025
+- Best Oral Presentation, SRSE 2024 Conference, Oct 2024
 - UNSW PhD Research Full Scholarship, UNSW, Feb 2024
 - Award for Outstanding Young Researcher, Khalifa University, Dec 2022
 - Mater of Research and Teaching Scholarship, Khalifa University, Sep 2021
