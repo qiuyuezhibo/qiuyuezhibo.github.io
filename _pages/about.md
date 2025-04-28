@@ -65,6 +65,7 @@ I graduated from [Khalifa University](https://www.ku.ac.ae/) with a master's deg
 
 
 # 📝 Publications
+- *2025.04*: [**UNSW-MG24: A Heterogeneous Dataset for Cybersecurity Analysis in Realistic Microgrid Systems**](https://ieeexplore.ieee.org/document/10976542) accepted by **IEEE Open Journal of the Computer Society**
 - *2025.04*: [**A survey on resilient microgrid system from cybersecurity perspective**](https://www.sciencedirect.com/science/article/pii/S1568494625003990) accepted by **Applied Soft Computing**
 - *2024.10*: [**A Method for Battery SoH Estimation Based on K-means and LightGBM algorithm**](https://ieeexplore.ieee.org/abstract/document/10772504) accepted by **6th International Conference on System Reliability and Safety Engineering (SRSE)**
 - *2024.09*: [**Enhancing Reliability and Performance of Load Frequency Control in Aging Multi-Area Power Systems under Cyber-Attacks**](https://www.mdpi.com/2076-3417/14/19/8631) accepted by **Applied Sciences**
