@@ -112,7 +112,7 @@ I graduated from [Khalifa University](https://www.ku.ac.ae/) with a master's deg
 ✨ Academic Services
 ======
 - Founder and Chair of IEEE Industry Applications Society ACT Student Branch Chapter
-- Serve as a reviewer for many prestigious journals including, IEEE Transactions on Services Computing, IEEE Transactions on Computers, IEEE Open Journal of the Computer Society, IEEE Transactions on Emerging Topics in Computational Intelligence, Journal of parallel and distributed computing, etc.
+- Serve as a reviewer for many prestigious journals, including IEEE Transactions on Services Computing, IEEE Transactions on Computers, IEEE Open Journal of the Computer Society, IEEE Transactions on Emerging Topics in Computational Intelligence, Discover Computing, Journal of Parallel and Distributed Computing, etc.
 - Serve as a technical committee member for conferences, including 16th International Conference on Computer and Automation Engineering (ICCAE 2024), 7th International Conference on Control, Robotics and Informatics (ICCRI 2024), 13th International Conference on Software and Computing Technologies (ICSCT 2024), etc.
 
 
