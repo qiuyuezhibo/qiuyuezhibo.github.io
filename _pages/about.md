@@ -60,11 +60,12 @@ I graduated from [Khalifa University](https://www.ku.ac.ae/) with a master's deg
 - *2023.09*: 🎉🎉 I arrive in Hong Kong SAR, China, and start my Research Assistant there!
 - *2023.07*: 👨‍🎓👨‍🎓 I get my master’s degree!
 - *2022.12*: 🎉🎉 I am awarded the Prize for Outstanding Young Researcher by Khalifa University!
-- *2021.08*: I arrive in Abu Dhabi, UAE, and start my master's career there!
+- *2021.08*: 🎉🎉 I arrive in Abu Dhabi, UAE, and start my master's career there!
 - *2021.07*: 👨‍🎓👨‍🎓 I get my bachelor’s degree!
 
 
 # 📝 Publications
+- *2025.07*: [**A Comprehensive Survey on the Usage of Machine Learning to Detect False Data Injection Attacks in Smart Grids**](https://ieeexplore.ieee.org/document/11063250) accepted by **IEEE Open Journal of the Computer Society**
 - *2025.04*: [**UNSW-MG24: A Heterogeneous Dataset for Cybersecurity Analysis in Realistic Microgrid Systems**](https://ieeexplore.ieee.org/document/10976542) accepted by **IEEE Open Journal of the Computer Society**
 - *2025.04*: [**A survey on resilient microgrid system from cybersecurity perspective**](https://www.sciencedirect.com/science/article/pii/S1568494625003990) accepted by **Applied Soft Computing**
 - *2024.10*: [**A Method for Battery SoH Estimation Based on K-means and LightGBM algorithm**](https://ieeexplore.ieee.org/abstract/document/10772504) accepted by **6th International Conference on System Reliability and Safety Engineering (SRSE)**
@@ -105,7 +106,7 @@ I graduated from [Khalifa University](https://www.ku.ac.ae/) with a master's deg
 - Best Oral Presentation, SRSE 2024 Conference, Oct 2024
 - UNSW PhD Research Full Scholarship, UNSW, Feb 2024
 - Award for Outstanding Young Researcher, Khalifa University, Dec 2022
-- Mater of Research and Teaching Scholarship, Khalifa University, Sep 2021
+- Master of Research and Teaching Scholarship, Khalifa University, Sep 2021
 - Outstanding Undergraduate Scholarship of NPU; Dec 2019, Dec 2018
 
 
@@ -120,7 +121,13 @@ I graduated from [Khalifa University](https://www.ku.ac.ae/) with a master's deg
 ==========
 
 -   ------------------------------------------------ -------------------------
-
+> ### **Tutor at Australian National University**     
+>
+> > **July 2025 -- Dec 2025**
+> > 
+> > ***Tutor of Control System (ENGN3223/6223)***
+> > 
+> > ***Instructor: Dr. Philipp Braun***
 > ### **Research Assistant at City University of Hong Kong**     
 >
 > > **Sep 2023 -- Feb 2024**
