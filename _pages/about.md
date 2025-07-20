@@ -55,8 +55,8 @@ I graduated from [Khalifa University](https://www.ku.ac.ae/) with a master's deg
 
 # 🔥 News
 
-- *2024.12*: 🎉🎉 I establish and serve as the chair as IEEE Industry Applications Society ACT Student Branch Chapter
-- *2024.02*: 🎉🎉 I arrive in Canberra, Australia, and start my PhD's career there!
+- *2024.12*: 🎉🎉 I establish and serve as the chair of the IEEE Industry Applications Society ACT Student Branch Chapter
+- *2024.02*: 🎉🎉 I arrive in Canberra, Australia, and start my PhD career there!
 - *2023.09*: 🎉🎉 I arrive in Hong Kong SAR, China, and start my Research Assistant there!
 - *2023.07*: 👨‍🎓👨‍🎓 I get my master’s degree!
 - *2022.12*: 🎉🎉 I am awarded the Prize for Outstanding Young Researcher by Khalifa University!
@@ -65,6 +65,7 @@ I graduated from [Khalifa University](https://www.ku.ac.ae/) with a master's deg
 
 
 # 📝 Publications
+- *2025.07*: [**Evolving Explainable Artificial Intelligence for electroencephalography-based mental health classification in digital twin systems**](https://www.sciencedirect.com/science/article/abs/pii/S1570870525002124) accepted by **Ad Hoc Networks**
 - *2025.07*: [**A Comprehensive Survey on the Usage of Machine Learning to Detect False Data Injection Attacks in Smart Grids**](https://ieeexplore.ieee.org/document/11063250) accepted by **IEEE Open Journal of the Computer Society**
 - *2025.04*: [**UNSW-MG24: A Heterogeneous Dataset for Cybersecurity Analysis in Realistic Microgrid Systems**](https://ieeexplore.ieee.org/document/10976542) accepted by **IEEE Open Journal of the Computer Society**
 - *2025.04*: [**A survey on resilient microgrid system from cybersecurity perspective**](https://www.sciencedirect.com/science/article/pii/S1568494625003990) accepted by **Applied Soft Computing**
