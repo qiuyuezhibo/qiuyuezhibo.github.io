@@ -65,7 +65,7 @@ I graduated from [Khalifa University](https://www.ku.ac.ae/) with a master's deg
 
 
 # 📝 Publications
-- *2025.10*: [**SDN-MG25: A Comprehensive Dataset for Cybersecurity Analysis in Software Defined Networking-Enabled Microgrid Systems**](https://ieeexplore.ieee.org/document/11271830) accepted by **IEEE Open Journal of the Computer Society**
+- *2025.12*: [**SDN-MG25: A Comprehensive Dataset for Cybersecurity Analysis in Software Defined Networking-Enabled Microgrid Systems**](https://ieeexplore.ieee.org/document/11271830) accepted by **IEEE Open Journal of the Computer Society**
 - *2025.10*: [**Battery SOH Prediction Under Different Conditions via MBLSTM and Itransformer With Anomaly Detection and Explainability**](https://ieeexplore.ieee.org/abstract/document/11217227) accepted by **IEEE Open Journal of the Computer Society**
 - *2025.07*: [**Evolving Explainable Artificial Intelligence for electroencephalography-based mental health classification in digital twin systems**](https://www.sciencedirect.com/science/article/abs/pii/S1570870525002124) accepted by **Ad Hoc Networks**
 - *2025.07*: [**A Comprehensive Survey on the Usage of Machine Learning to Detect False Data Injection Attacks in Smart Grids**](https://ieeexplore.ieee.org/document/11063250) accepted by **IEEE Open Journal of the Computer Society**
